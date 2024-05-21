@@ -5,7 +5,7 @@
 - 📫 How to reach me https://linktr.ee/shihab.dev
 
 
-# Thinkright
+# MY Stats
 
 ### Languages and Tools:
 <p align="left">
@@ -15,9 +15,9 @@
 </p>
 
 ### My Stats:
-![Thinkright's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinkright20&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Thinkright20&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinkright20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Thinkright's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zul-Qarnain&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zul-Qarnain&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
