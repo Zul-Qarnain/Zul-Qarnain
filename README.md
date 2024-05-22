@@ -24,5 +24,5 @@
 
 ### My Stats:
 ![Thinkright's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zul-Qarnain&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zul-Qarnain)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zul-Qarnain&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
