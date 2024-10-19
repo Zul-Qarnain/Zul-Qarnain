@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zul-Qarnain
+- 👋 Hi, I’m Shihab
 - 👀 I’m interested in solving challenge
-- 🌱 I’m currently learning College
+- 🌱 I'm a university student
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me https://linktr.ee/shihab.dev
 
