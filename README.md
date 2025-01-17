@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shihab
+- 👋 Hi, I’m Mohammad Shihab Hossain
 - 👀 I’m interested in solving challenge
 - 🌱 I'm a university student
 - 💞️ I’m looking to collaborate on opensource projects
