@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zul-Qarnainb&label=Profile%20views&color=0e75b6&style=flat" alt="Zul-Qarnain"/> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zul-Qarnain" alt="Zul-Qarnain"/></a> </p>
+
 - 👋 Hi, I’m Mohammad Shihab Hossain
 - 👀 I’m interested in solving challenge
 - 🌱 I'm a university student
