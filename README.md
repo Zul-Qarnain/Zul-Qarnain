@@ -1,3 +1,10 @@
+<!-- Sad Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=The+one+who+wanted+to+stay+—+I+couldn’t+keep.;The+one+I+wanted+to+keep+—+didn’t+stay.;In+the+end%2C+I+realized+—+no+one+was+truly+there."/>
+</p>
+
+---
+
 <!-- Profile Views -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Zul-Qarnain&label=Profile%20views&color=0e75b6&style=flat" alt="Zul-Qarnain" /> 
@@ -54,3 +61,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&layout=compact&theme=midnight-purple" alt="Zul-Qarnain Top Languages" />
 </p>
 
+---
