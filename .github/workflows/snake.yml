@@ -1,0 +1,33 @@
+name: Generate Snake
+
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # Allows you to run it manually to test it immediately
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          # Name of your GitHub user
+          github_user_name: Zul-Qarnain
+          # The output images the snake generates
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
