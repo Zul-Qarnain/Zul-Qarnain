@@ -56,8 +56,8 @@
 <br>
 
 <div align="center">
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zul-Qarnain&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://github.com/Zul-Qarnain/Zul-Qarnain/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
