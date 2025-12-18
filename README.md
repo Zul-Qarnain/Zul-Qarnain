@@ -9,7 +9,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Zul-Qarnain&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Zul-Qarnain&theme=git-block&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Zul-Qarnain&theme=flat&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
@@ -56,18 +58,36 @@
 <br>
 
 <div align="center">
+  <h3>📈 Contribution Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zul-Qarnain&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
   <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/Zul-Qarnain/Zul-Qarnain/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Zul-Qarnain/Zul-Qarnain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Zul-Qarnain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Zul-Qarnain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zul-Qarnain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Zul-Qarnain&theme=dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF" alt="GitHub Streak" />
 </div>
 
 <br>
