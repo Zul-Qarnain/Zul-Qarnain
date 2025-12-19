@@ -9,9 +9,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Zul-Qarnain&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
   <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zul-Qarnain&theme=flat&no-bg=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=Zul-Qarnain&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -77,17 +75,17 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zul-Qarnain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Zul-Qarnain&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Zul-Qarnain&theme=dark-blue&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zul-Qarnain&theme=blue-green&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
