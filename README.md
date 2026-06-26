@@ -13,82 +13,141 @@
 </div>
 
 <br>
+<hr size="1" color="#30363D">
+<br>
 
 <h1 align="center">👋 Hi, I’m Mohammad Shihab Hossain</h1>
 
-<div align="center">
-
-💻 **Aspiring AI Researcher**
-<br>
-*Exploring Deep Learning, Quantum Computing & Full-Stack Dev*
-
-🎓 Studying **Computer Science @ AIUB**
-<br>
-🌌 Passionate about **Quantum AI** & Building Smart Systems
-<br>
-🤝 Open to **Open-source**, **Research**, & **AI-driven Collaborations**
-
 <br>
 
-<a href="https://shihab.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-shihab.vercel.app-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="https://linktr.ee/shihab.dev">
-  <img src="https://img.shields.io/badge/Linktree-shihab.dev-20B2AA?style=for-the-badge&logo=linktree&logoColor=white" height="28" />
-</a>
-&nbsp;
-<a href="https://github.com/Zul-Qarnain">
-  <img src="https://img.shields.io/badge/GitHub-Zul--Qarnain-181717?style=for-the-badge&logo=github" height="28" />
-</a>
+<!-- Material UI Style Card Layout -->
+<div>
+  <img align="right" src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAd/anime-computer-gurl.gif" width="380" style="border-radius: 12px; margin-left: 20px;" alt="Anime Girl Coding" />
 
+  ### 🧑‍💻 About Me
+
+  - 💻 **Aspiring AI Researcher**  
+    *Exploring Deep Learning, Quantum Computing & Full-Stack Dev*
+  - 🎓 Studying **Computer Science @ AIUB**
+  - 🌌 Passionate about **Quantum AI** & Building Smart Systems
+  - 🤝 Open to **Open-source**, **Research**, & **AI-driven Collaborations**
+
+  <br>
+
+  <a href="https://shihab.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-shihab.vercel.app-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://linktr.ee/shihab.dev">
+    <img src="https://img.shields.io/badge/Linktree-shihab.dev-20B2AA?style=for-the-badge&logo=linktree&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Zul-Qarnain">
+    <img src="https://img.shields.io/badge/GitHub-Zul--Qarnain-181717?style=for-the-badge&logo=github" height="28" />
+  </a>
 </div>
 
+<br clear="both">
+<br>
+<hr size="1" color="#30363D">
+<br>
+
+<!-- Focus Areas Table -->
+<table align="center" style="border-radius: 8px; border-collapse: collapse;">
+<tr>
+
+<td align="center" width="260" style="border: 1px solid #30363D; padding: 15px; border-radius: 8px;">
+
+### 🚀 Startup
+
+🏠 **MFS**<br>
+🌌 **Oryxa**
+
+</td>
+
+<td align="center" width="260" style="border: 1px solid #30363D; padding: 15px; border-radius: 8px;">
+
+### 💻 Current Projects
+
+💼 **Personal Portfolio Website**<br>
+🌐 **Web Technology Course**<br>
+🤖 **Machine Learning Project**
+
+</td>
+
+<td align="center" width="260" style="border: 1px solid #30363D; padding: 15px; border-radius: 8px;">
+
+### 🔬 Research
+
+📚 **Academic Research Projects**<br>
+🧠 **Large Language Models (LLMs)**<br>
+⚡ **Deep Learning**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+<hr size="1" color="#30363D">
 <br>
 
 <div align="center">
   <h3>🛠️ Languages & Tools</h3>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,cpp,java,react,nextjs,nodejs,docker,bash,vscode&theme=dark" />
   </a>
 </div>
 
 <br>
+<hr size="1" color="#30363D">
+<br>
 
 <div align="center">
   <h3>📈 Contribution Activity</h3>
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zul-Qarnain&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
+<hr size="1" color="#30363D">
+<br>
 
 <div align="center">
   <h3>🐍 Contribution Snake</h3>
+  <br>
   <img src="https://raw.githubusercontent.com/Zul-Qarnain/Zul-Qarnain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
+<hr size="1" color="#30363D">
+<br>
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  
-  <table>
+  <br>
+
+  <table style="border: none;">
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=Zul-Qarnain&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  
+
   <br>
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zul-Qarnain&theme=blue-green&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
+<hr size="1" color="#30363D">
+<br>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%"/>
 </div>
