@@ -20,14 +20,12 @@
 
 <br>
 
-<!-- Material UI Style Card Layout -->
 <div>
   <img align="right" src="https://media1.tenor.com/m/MBi81kQ7aU0AAAAd/anime-computer-gurl.gif" width="380" style="border-radius: 12px; margin-left: 20px;" alt="Anime Girl Coding" />
 
   ### 🧑‍💻 About Me
 
-  - 💻 **Aspiring AI Researcher**  
-    *Exploring Deep Learning, Quantum Computing & Full-Stack Dev*
+  - 💻 **Aspiring AI Researcher** *Exploring Deep Learning, Quantum Computing & Full-Stack Dev*
   - 🎓 Studying **Computer Science @ AIUB**
   - 🌌 Passionate about **Quantum AI** & Building Smart Systems
   - 🤝 Open to **Open-source**, **Research**, & **AI-driven Collaborations**
@@ -52,7 +50,6 @@
 <hr size="1" color="#30363D">
 <br>
 
-<!-- Focus Areas Table -->
 <table align="center" style="border-radius: 8px; border-collapse: collapse;">
 <tr>
 
@@ -142,6 +139,12 @@
   <br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zul-Qarnain&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <a href="https://gitfut.com/Zul-Qarnain">
+    <img src="https://gitfut.com/Zul-Qarnain.png" width="350" alt="My GitFut card" />
+  </a>
 </div>
 
 <br>
