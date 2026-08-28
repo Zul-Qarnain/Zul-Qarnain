@@ -1,23 +1,41 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=header" width="100%"/>
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=33CEFF&center=true&vCenter=true&width=1000&lines=The+one+who+wanted+to+stay+I+couldnt+keep;The+one+I+wanted+to+keep+didnt+stay;In+the+end+no+one+was+really+there" alt="Sad Quote" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zul-Qarnain&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
-  <br><br>
-  <img src="https://github-trophies.vercel.app/?username=Zul-Qarnain&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00BFFF&height=170&section=header&text=Mohammad%20Shihab%20Hossain&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Researcher%20%7C%20Software%20Engineer%20%7C%20Builder%20of%20Smart%20Systems&descAlignY=58&descSize=15" width="100%"/>
+</div>
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=Zul-Qarnain&icon=0&color=0)](https://visitcount.itsvg.in)
+&nbsp;
+<img src="https://img.shields.io/github/followers/Zul-Qarnain?label=Followers&style=flat&color=00BFFF&logo=github" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/badge/status-shipping%20things-00BFFF?style=flat" alt="status" />
+
+<br><br>
+
+<img src="https://github-trophies.vercel.app/?username=Zul-Qarnain&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
+
 </div>
 
 <br>
-<hr size="1" color="#30363D">
+
+```yaml
+$ whoami
+--------------------------------------------
+name      : Mohammad Shihab Hossain
+alias     : Xyz / Zul-Qarnain
+role      : Computer Science Engineer, AI Researcher
+based_in  : Dhaka, Bangladesh
+focus     : Deep Learning · LLMs & Agents · Quantum AI
+status    : building, breaking, rebuilding
+--------------------------------------------
+```
+
 <br>
-
-<h1 align="center">👋 Hi, I’m Mohammad Shihab Hossain</h1>
-
+<hr size="1" color="#30363D">
 <br>
 
 <div>
@@ -26,7 +44,7 @@
   ### 🧑‍💻 About Me
 
   - 💻 **Aspiring AI Researcher** *Exploring Deep Learning, Quantum Computing & Full-Stack Dev*
-  - 🎓 Studying **Computer Science @ AIUB**
+  - 🎓 **Computer Science Engineer** — always learning, always shipping
   - 🌌 Passionate about **Quantum AI** & Building Smart Systems
   - 🤝 Open to **Open-source**, **Research**, & **AI-driven Collaborations**
 
@@ -102,9 +120,25 @@
 <br>
 
 <div align="center">
+  <h3>📌 Pinned Work</h3>
+  <br>
+  <a href="https://github.com/Zul-Qarnain/Portfolio">
+    <img height="165" src="https://github-readme-stats.shion.dev/api/pin/?username=Zul-Qarnain&repo=Portfolio&theme=dark&hide_border=false" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Zul-Qarnain/bigopy">
+    <img height="165" src="https://github-readme-stats.shion.dev/api/pin/?username=Zul-Qarnain&repo=bigopy&theme=dark&hide_border=false" />
+  </a>
+</div>
+
+<br>
+<hr size="1" color="#30363D">
+<br>
+
+<div align="center">
   <h3>📈 Contribution Activity</h3>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zul-Qarnain&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zul-Qarnain&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
@@ -128,23 +162,26 @@
   <table style="border: none;">
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zul-Qarnain&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=Zul-Qarnain&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zul-Qarnain&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zul-Qarnain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zul-Qarnain&theme=blue-green&hide_border=true" alt="GitHub Streak" />
-  
+  <img src="https://streak-stats.demolab.com/?user=Zul-Qarnain&theme=dark&hide_border=false" alt="GitHub Streak" />
+
   <br><br>
 
   <a href="https://gitfut.com/Zul-Qarnain">
     <img src="https://gitfut.com/Zul-Qarnain.png" width="350" alt="My GitFut card" />
   </a>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 </div>
 
 <br>
@@ -152,5 +189,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:203A43,100:0F2027&height=110&section=footer" width="100%"/>
 </div>
