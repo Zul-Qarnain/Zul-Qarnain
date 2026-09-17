@@ -124,12 +124,12 @@ status    : building, breaking, rebuilding
 <div align="center">
   <h3>📌 Pinned Work</h3>
   <br>
-  <a href="https://github.com/Zul-Qarnain/Portfolio">
-    <img height="165" src="https://github-readme-stats.shion.dev/api/pin/?username=Zul-Qarnain&repo=Portfolio&theme=dark&hide_border=false" />
+  <a href="https://github.com/MobinX/awesome-mcp-list">
+    <img height="165" src="https://github-readme-stats.shion.dev/api/pin/?username=MobinX&repo=awesome-mcp-list&theme=dark&hide_border=false" />
   </a>
   &nbsp;
-  <a href="https://github.com/Zul-Qarnain/bigopy">
-    <img height="165" src="https://github-readme-stats.shion.dev/api/pin/?username=Zul-Qarnain&repo=bigopy&theme=dark&hide_border=false" />
+  <a href="https://github.com/Zul-Qarnain/RentalSystemUI">
+    <img height="165" src="https://github-readme-stats.shion.dev/api/pin/?username=Zul-Qarnain&repo=RentalSystemUI&theme=dark&hide_border=false" />
   </a>
 </div>
 
