@@ -8,9 +8,11 @@
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Zul-Qarnain&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Zul-Qarnain&label=Profile+Views&color=00BFFF&style=flat)
 &nbsp;
 <img src="https://img.shields.io/github/followers/Zul-Qarnain?label=Followers&style=flat&color=00BFFF&logo=github" alt="Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Zul-Qarnain?label=Stars&style=flat&color=00BFFF&logo=github" alt="Stars" />
 &nbsp;
 <img src="https://img.shields.io/badge/status-shipping%20things-00BFFF?style=flat" alt="status" />
 
@@ -138,7 +140,7 @@ status    : building, breaking, rebuilding
 <div align="center">
   <h3>📈 Contribution Activity</h3>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zul-Qarnain&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=Zul-Qarnain&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
